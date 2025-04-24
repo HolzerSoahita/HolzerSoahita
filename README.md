@@ -6,7 +6,7 @@
 --->
 
 
-# 👋 Hi, I'm Holzer Soahita (@HolzerSoahita)
+# 👋 Hi, I'm Holzer Soahita ( @HolzerSoahita )
 
 - 🎓 **Valedictorian 2024** – Microsoft-certified Data Scientist  
 - 🎓 Graduate of **Aivancity**, the only AI-specialized school officially recognized in Europe  
